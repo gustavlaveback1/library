@@ -1,0 +1,48 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'library 1.0-SNAPSHOT API'
+models
+ui
+utilities
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/src/main/java = 1763820137278
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/allclasses-index.html = 1763925432101
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/allpackages-index.html = 1763925432124
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/element-list = 1763925431113
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/help-doc.html = 1763925432397
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/index-all.html = 1763925432341
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/index.html = 1763925432009
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/jquery-ui.overrides.css = 1763925432670
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/member-search-index.js = 1763925432186
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/module-search-index.js = 1763925432138
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/overview-summary.html = 1763925432359
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/overview-tree.html = 1763925431984
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/package-search-index.js = 1763925432153
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/script.js = 1763925432454
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/search.js = 1763925432479
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/serialized-form.html = 1763925431423
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/stylesheet.css = 1763925432431
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/tag-search-index.js = 1763925432214
+/mnt/c/Users/gusta/IdeaProjects/inl2_maven/library/target/reports/apidocs/type-search-index.js = 1763925432168
