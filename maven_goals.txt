@@ -1,0 +1,9 @@
+Jag har använt mig av:
+mvn compile - för att kompilera mina .java filer och mitt program.
+mvn test - för att köra och testa alla mina test filer när jag var färdig
+mvn javadoc:javadoc - för att skapa javadocen
+mvn package - för att kompilera, testa och skapa jar filen
+men sen körde jag även mvn clean compile,
+jag har haft lite konstiga problem med mitt program, det har saknats lite saker,
+om jag förstår det rätt så cleanar det gamla filer och skapar nya och kompilerar dem.
+Men den delen är jag lite osäker på.
