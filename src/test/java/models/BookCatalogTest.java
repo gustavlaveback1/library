@@ -16,9 +16,11 @@ public class BookCatalogTest {
 	}
 	//G
 	@Test
-	public void testAddABook() {
+	public void testAddABook() throws BookNotFoundException{
         Book book1 = new Book(10, "Harry Potter", "JK Rowling", "12244", "21", 21);
 	    bc.addBook(book1);
+        Book found = bc.findBook("Harry Potter");
+        assertEquals(book1, found);
     }
 
 	//G
